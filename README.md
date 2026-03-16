@@ -1,46 +1,200 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<h1 align="center">
+Olá 👋 Eu sou Luiz Henrique Ferreira
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luiz+Henrique+Ferreira;I+study+engenharia+de+software;Be+Welcome!+:%29)](https://git.io/typing-svg) 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?
-  username=luizhenrique&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="luiz henrique ferreira github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+<h3 align="center">
+🚀 Desenvolvedor Full Stack | Foco em Back-End
+</h3>
 
-### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Luiz+Henrique+Ferreira;Desenvolvedor+Full+Stack;Foco+em+Back-End;Java+C%23+C+Python;Banco+de+Dados+e+APIs" />
+</p>
 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Atom](https://img.shields.io/badge/-atom-0D1117?style=for-the-badge&logo=atom&logoColor=90ee90&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+---
 
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
+# 👨‍💻 Sobre mim
 
-### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+🎓 Estudante de **Engenharia de Software**  
+💻 **Desenvolvedor Full Stack**, com foco no **Back-End**  
+🚀 Interesse em desenvolvimento de sistemas, APIs e banco de dados  
+🌎 Brasileiro | Inglês fluente  
+🔎 Buscando oportunidades para crescer na área de desenvolvimento
 
-<!-- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
-<br></div> -->
+---
+
+# 🧠 Habilidades
+
+## 💻 Linguagens de Programação
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## ⚙️ Desenvolvimento Back-End
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+---
+
+## 🗄️ Banco de Dados
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 🛠️ Ferramentas e DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/AzureDevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+# 🚀 Projetos em Destaque
+
+Aqui estão alguns projetos que demonstram minhas habilidades em **desenvolvimento Full Stack com foco em Back-End**, criação de APIs e manipulação de banco de dados.
+
+---
+
+### 💈 Sistema de Gerenciamento para Barbearia
+
+Sistema web completo para gerenciamento de barbearias, permitindo controle de clientes, agendamentos e serviços.
+
+**Principais funcionalidades**
+
+- Cadastro e autenticação de usuários  
+- Agendamento de horários  
+- Gerenciamento de clientes  
+- Controle de serviços realizados  
+- Integração com banco de dados  
+
+**Tecnologias**
+
+`Java` `Spring Boot` `MySQL` `REST API`
+
+🔗 Repositório  
+https://github.com/SEU_USUARIO/barbershop-system
+
+---
+
+### 🔐 API de Autenticação e Controle de Usuários
+
+API REST responsável por autenticação e gerenciamento de usuários em aplicações web.
+
+**Principais funcionalidades**
+
+- Cadastro de usuários  
+- Login com autenticação segura  
+- Geração de tokens JWT  
+- Controle de permissões e acesso  
+
+**Tecnologias**
+
+`Java` `Spring Boot` `JWT` `PostgreSQL`
+
+🔗 Repositório  
+https://github.com/SEU_USUARIO/auth-api
+
+---
+
+### 📊 Sistema de Gerenciamento de Tarefas
+
+Aplicação web para gerenciamento de tarefas e organização de projetos.
+
+**Principais funcionalidades**
+
+- Cadastro e gerenciamento de tarefas  
+- Organização por categorias  
+- Atualização de status das tarefas  
+- Persistência em banco de dados  
+
+**Tecnologias**
+
+`Node.js` `JavaScript` `MySQL` `REST API`
+
+🔗 Repositório  
+https://github.com/SEU_USUARIO/task-manager
+
+---
+
+### 📦 API de Gerenciamento de Produtos
+
+API para gerenciamento de produtos em sistemas de e-commerce ou estoque.
+
+**Principais funcionalidades**
+
+- Cadastro de produtos  
+- Atualização e exclusão de registros  
+- Consulta e filtragem de dados  
+- Integração com banco de dados  
+
+**Tecnologias**
+
+`Java` `Spring Boot` `SQL Server`
+
+🔗 Repositório  
+https://github.com/SEU_USUARIO/product-api
+
+---
+
+### 📈 Sistema de Controle Financeiro
+
+Aplicação para controle de receitas, despesas e organização financeira.
+
+**Principais funcionalidades**
+
+- Registro de receitas e despesas  
+- Relatórios financeiros  
+- Organização por categorias  
+- Armazenamento em banco de dados  
+
+**Tecnologias**
+
+`Python` `PostgreSQL`
+
+🔗 Repositório  
+https://github.com/SEU_USUARIO/finance-system
+
+---
+
+### ⚙️ API CRUD de Usuários
+
+Projeto focado em demonstrar operações **CRUD (Create, Read, Update, Delete)** em uma API.
+
+**Principais funcionalidades**
+
+- Criar usuários  
+- Atualizar dados  
+- Listar registros  
+- Remover usuários  
+
+**Tecnologias**
+
+`C#` `.NET` `SQL Server`
+
+🔗 Repositório  
+https://github.com/SEU_USUARIO/crud-api
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+---
+
+# 📫 Contato
+
+💼 LinkedIn: www.linkedin.com/in/
+luiz-henrique-freirera
+ 
+🐙GitHub: https://github.com/luizhenrique-VK
+
+📫telefone: 63992144636
+
+🔗email: luizhenriqueferreira640@gmail.com
+
+---
+
+⭐ Sempre aprendendo novas tecnologias e desenvolvendo soluções.
