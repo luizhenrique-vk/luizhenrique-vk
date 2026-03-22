@@ -79,7 +79,7 @@ Sistema web completo para gerenciamento de barbearias, permitindo controle de cl
 `Java` `Spring Boot` `MySQL` `REST API`
 
 🔗 Repositório  
-https://github.com/SEU_USUARIO/barbershop-system
+https://github.com/luizhenrique-vk/Sistema-de-Gerenciamento-para-Barbearia
 
 ---
 
